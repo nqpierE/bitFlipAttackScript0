@@ -4,7 +4,7 @@ This is python script brute forces of bit flip attack to a website.
 # requirements
 Install requirements by following command.
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Usage
