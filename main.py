@@ -63,7 +63,7 @@ def main():
                     print(determine_response.text)
                     return
             pbar.update(100/len(raw))
-        print("The String is not found.")
+        print("[x] The String is not found.")
         return
 
 
